@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :MAFLogger-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/15b95977c0fa3dba080c5afd707ce1ba/transformed/jetified-MAFLogger-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15b95977c0fa3dba080c5afd707ce1ba/transformed/jetified-MAFLogger-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

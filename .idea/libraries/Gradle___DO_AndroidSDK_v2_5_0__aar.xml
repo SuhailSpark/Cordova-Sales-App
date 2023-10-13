@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :DO_AndroidSDK_v2.5.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b9179ea9bf295133e287bfb866e62c69/transformed/jetified-DO_AndroidSDK_v2.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9179ea9bf295133e287bfb866e62c69/transformed/jetified-DO_AndroidSDK_v2.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9179ea9bf295133e287bfb866e62c69/transformed/jetified-DO_AndroidSDK_v2.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

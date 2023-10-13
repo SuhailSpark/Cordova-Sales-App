@@ -1,0 +1,12 @@
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+// Apply values after project's build-extras.gradle
+cdvPluginPostBuildExtras.add({
+    dependencies {
+        implementation(name:'CDSProvider-3.16.1', ext:'aar')
+    }
+})

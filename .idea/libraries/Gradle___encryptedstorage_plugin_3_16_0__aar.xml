@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :encryptedstorage-plugin-3.16.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4f7bcb5a245acfafbbf9ff57681eb262/transformed/jetified-encryptedstorage-plugin-3.16.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f7bcb5a245acfafbbf9ff57681eb262/transformed/jetified-encryptedstorage-plugin-3.16.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

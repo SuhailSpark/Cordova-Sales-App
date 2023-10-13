@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :toolbar-plugin-3.16.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2db687b46b488b6afb3a088b871154fb/transformed/jetified-toolbar-plugin-3.16.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2db687b46b488b6afb3a088b871154fb/transformed/jetified-toolbar-plugin-3.16.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2db687b46b488b6afb3a088b871154fb/transformed/jetified-toolbar-plugin-3.16.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

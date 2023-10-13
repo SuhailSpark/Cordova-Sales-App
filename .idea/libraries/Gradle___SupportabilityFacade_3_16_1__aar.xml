@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :SupportabilityFacade-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9749d39c11acb3e0fcd8b2d823e2fa29/transformed/jetified-SupportabilityFacade-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9749d39c11acb3e0fcd8b2d823e2fa29/transformed/jetified-SupportabilityFacade-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

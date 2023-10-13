@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :CoreServices-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/108ee3ac47e117bdcd4b5286bfa30039/transformed/jetified-CoreServices-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/108ee3ac47e117bdcd4b5286bfa30039/transformed/jetified-CoreServices-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

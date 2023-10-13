@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :CommonCertificateProvider-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d3a7716732402a00aceaf4c0e82ee5a8/transformed/jetified-CommonCertificateProvider-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3a7716732402a00aceaf4c0e82ee5a8/transformed/jetified-CommonCertificateProvider-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

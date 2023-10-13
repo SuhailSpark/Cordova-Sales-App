@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :settings-plugin-3.16.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c14f564254c51c41f92996f274238a16/transformed/jetified-settings-plugin-3.16.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c14f564254c51c41f92996f274238a16/transformed/jetified-settings-plugin-3.16.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c14f564254c51c41f92996f274238a16/transformed/jetified-settings-plugin-3.16.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

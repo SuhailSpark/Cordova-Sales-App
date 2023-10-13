@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :AfariaProvider-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5e00fae7c0688935ece99e4fd8c039e4/transformed/jetified-AfariaProvider-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e00fae7c0688935ece99e4fd8c039e4/transformed/jetified-AfariaProvider-3.16.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e00fae7c0688935ece99e4fd8c039e4/transformed/jetified-AfariaProvider-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

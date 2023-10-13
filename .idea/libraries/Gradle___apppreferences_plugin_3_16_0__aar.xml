@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :apppreferences-plugin-3.16.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/862aed06bf89830f92f01c7121f9aeff/transformed/jetified-apppreferences-plugin-3.16.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/862aed06bf89830f92f01c7121f9aeff/transformed/jetified-apppreferences-plugin-3.16.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

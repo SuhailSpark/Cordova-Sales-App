@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :barcodescanner:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/48421fe7639420fa3a6449f84ace5fd0/transformed/jetified-barcodescanner/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48421fe7639420fa3a6449f84ace5fd0/transformed/jetified-barcodescanner/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48421fe7639420fa3a6449f84ace5fd0/transformed/jetified-barcodescanner/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :Connectivity-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/898da78cec25f4f47d547d96394d2ba1/transformed/jetified-Connectivity-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/898da78cec25f4f47d547d96394d2ba1/transformed/jetified-Connectivity-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

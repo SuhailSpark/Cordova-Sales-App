@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :attachmentviewer-plugin-3.16.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/351632981d41c3ed9ab17b5512986ff4/transformed/jetified-attachmentviewer-plugin-3.16.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/351632981d41c3ed9ab17b5512986ff4/transformed/jetified-attachmentviewer-plugin-3.16.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/351632981d41c3ed9ab17b5512986ff4/transformed/jetified-attachmentviewer-plugin-3.16.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

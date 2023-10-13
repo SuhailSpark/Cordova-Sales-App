@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :ClientHubSLL-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/74daa694d780e51f6c5935f509ab97c5/transformed/jetified-ClientHubSLL-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/74daa694d780e51f6c5935f509ab97c5/transformed/jetified-ClientHubSLL-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

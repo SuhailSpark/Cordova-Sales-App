@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: :etisalatmposlib_230216_PROD:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ccfc16210b3f9548fb412fc0b415c8d8/transformed/jetified-etisalatmposlib_230216_PROD/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ccfc16210b3f9548fb412fc0b415c8d8/transformed/jetified-etisalatmposlib_230216_PROD/jars/libs/bbdevice-android-3.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ccfc16210b3f9548fb412fc0b415c8d8/transformed/jetified-etisalatmposlib_230216_PROD/jars/libs/ksoap2-android-assembly-3.0.0-RC.1-jar-with-dependencies.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ccfc16210b3f9548fb412fc0b415c8d8/transformed/jetified-etisalatmposlib_230216_PROD/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ccfc16210b3f9548fb412fc0b415c8d8/transformed/jetified-etisalatmposlib_230216_PROD/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

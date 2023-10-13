@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :fioriclient-plugin-3.16.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d96cae2c8c60d3d25c58d9a596aa4702/transformed/jetified-fioriclient-plugin-3.16.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d96cae2c8c60d3d25c58d9a596aa4702/transformed/jetified-fioriclient-plugin-3.16.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

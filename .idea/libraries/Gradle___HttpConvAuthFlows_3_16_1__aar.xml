@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :HttpConvAuthFlows-3.16.1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e5b0094d7832f4becd9102685a935d71/transformed/jetified-HttpConvAuthFlows-3.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5b0094d7832f4becd9102685a935d71/transformed/jetified-HttpConvAuthFlows-3.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

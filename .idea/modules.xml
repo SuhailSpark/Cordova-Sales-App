@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.unitTest.iml" />
+    </modules>
+  </component>
+</project>
