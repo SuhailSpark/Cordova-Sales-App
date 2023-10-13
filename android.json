@@ -217,7 +217,7 @@
                     ],
                     "/manifest/application/activity": [
                         {
-                            "xml": "<intent-filter><action android:name=\"android.intent.action.VIEW\" /><category android:name=\"android.intent.category.DEFAULT\" /><category android:name=\"android.intent.category.BROWSABLE\" /><data android:scheme=\"com.drc.etisalat.xcallbackurl\" /></intent-filter>",
+                            "xml": "<intent-filter><action android:name=\"android.intent.action.VIEW\" /><category android:name=\"android.intent.category.DEFAULT\" /><category android:name=\"android.intent.category.BROWSABLE\" /><data android:scheme=\"com.pepsi.etisalat.xcallbackurl\" /></intent-filter>",
                             "count": 2
                         },
                         {
@@ -243,7 +243,7 @@
                             "count": 1
                         },
                         {
-                            "xml": "<provider android:authorities=\"com.drc.etisalat.KapselAttachmentViewer\" android:exported=\"false\" android:grantUriPermissions=\"true\" android:name=\"com.sap.mp.cordova.plugins.attachmentViewer.FileProviderWithWorkaround\"><meta-data android:name=\"android.support.FILE_PROVIDER_PATHS\" android:resource=\"@xml/filepaths\" /></provider>",
+                            "xml": "<provider android:authorities=\"com.pepsi.etisalat.KapselAttachmentViewer\" android:exported=\"false\" android:grantUriPermissions=\"true\" android:name=\"com.sap.mp.cordova.plugins.attachmentViewer.FileProviderWithWorkaround\"><meta-data android:name=\"android.support.FILE_PROVIDER_PATHS\" android:resource=\"@xml/filepaths\" /></provider>",
                             "count": 1
                         },
                         {
@@ -271,7 +271,7 @@
                             "count": 1
                         },
                         {
-                            "xml": "<provider android:authorities=\"com.drc.etisalat.KapselLogger\" android:exported=\"false\" android:grantUriPermissions=\"true\" android:name=\"com.sap.mp.cordova.plugins.logger.LoggerFileProvider\"><meta-data android:name=\"android.support.FILE_PROVIDER_PATHS\" android:resource=\"@xml/logfilepaths\" /></provider>",
+                            "xml": "<provider android:authorities=\"com.pepsi.etisalat.KapselLogger\" android:exported=\"false\" android:grantUriPermissions=\"true\" android:name=\"com.sap.mp.cordova.plugins.logger.LoggerFileProvider\"><meta-data android:name=\"android.support.FILE_PROVIDER_PATHS\" android:resource=\"@xml/logfilepaths\" /></provider>",
                             "count": 1
                         }
                     ],
@@ -311,122 +311,122 @@
     },
     "installed_plugins": {
         "cordova-etisalat-mcashplugin": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-pdf-generator": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-android-permissions": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-customurlscheme": {
-            "URL_SCHEME": "com.drc.etisalat.xcallbackurl",
+            "URL_SCHEME": "com.pepsi.etisalat.xcallbackurl",
             "ANDROID_SCHEME": " ",
             "ANDROID_HOST": " ",
             "ANDROID_PATHPREFIX": "/",
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-file": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-privacyscreen": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-screen-orientation": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "drc.btprint.BTPrinter": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-corelibs": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-apppreferences": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-i18n": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-authproxy": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-attachmentviewer": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-barcodescanner": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-online": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-cachemanager": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-ui5": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-logon": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-cdsprovider": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-consent": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-encryptedstorage": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-fioriclient": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-keychaincertprovider": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-logger": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-multidex": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-settings": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         },
         "kapsel-plugin-toolbar": {
-            "PACKAGE_NAME": "com.drc.etisalat"
+            "PACKAGE_NAME": "com.pepsi.etisalat"
         }
     },
     "dependent_plugins": {},

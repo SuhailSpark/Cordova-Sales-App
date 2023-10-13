@@ -24,8 +24,8 @@
 24
 25    <uses-sdk
 26        android:minSdkVersion="25"
-26-->C:\Users\arun\AndroidStudioProjects\Daya Sales App\android_prd\CordovaLib\AndroidManifest.xml
+26-->D:\Daya Cordova\CordovaLib\AndroidManifest.xml
 27        android:targetSdkVersion="25" />
-27-->C:\Users\arun\AndroidStudioProjects\Daya Sales App\android_prd\CordovaLib\AndroidManifest.xml
+27-->D:\Daya Cordova\CordovaLib\AndroidManifest.xml
 28
 29</manifest>

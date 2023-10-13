@@ -1,15 +1,11 @@
 package drc.btprint.BTPrinter;
 
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.os.Environment;
 import android.util.Base64;
 import android.util.Log;
-import android.widget.Toast;
 
-
-import com.drc.etisalat.MainActivity;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
@@ -19,7 +15,6 @@ import org.json.JSONException;
 
 import java.io.File;
 import java.io.FileOutputStream;
-import java.util.HashMap;
 
 /**
  * This class echoes a string called from JavaScript.

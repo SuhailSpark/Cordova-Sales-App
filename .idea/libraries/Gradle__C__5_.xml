@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: C (5)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/sap-e2etrace-2.3.5.300.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -12,7 +12,7 @@
          * target application. Note that this value is distinct from the packageName,
          * which is mainly used to identify your application in app stores.
          */
-        "appID": "com.drc.etisalat",
+        "appID": "com.pepsi.etisalat",
         /**
          * fioriURL - The full URL of the target application. If your application does not
          * use SMP, it will navigate directly to this URL once logon is completed. If your app

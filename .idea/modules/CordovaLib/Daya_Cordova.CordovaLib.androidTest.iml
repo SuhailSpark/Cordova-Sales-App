@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":CordovaLib:androidTest" external.linked.project.path="$MODULE_DIR$/../../../CordovaLib" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../CordovaLib/src/androidTest/res;file://$MODULE_DIR$/../../../CordovaLib/src/androidTestDebug/res;file://$MODULE_DIR$/../../../CordovaLib/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../CordovaLib/build/generated/res/resValues/androidTest/debug" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output-test url="file://$MODULE_DIR$/../../../CordovaLib/build/intermediates/javac/debugAndroidTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/src/androidTest" />
+    <content url="file://$MODULE_DIR$/../../../CordovaLib/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Daya_Cordova.CordovaLib.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.aspectj:aspectjrt:1.8.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: C" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Daya_Cordova.CordovaLib.main" />
+</module>
