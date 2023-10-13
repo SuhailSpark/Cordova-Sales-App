@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/android_prd.CordovaLib.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_prd.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android_prd.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.iml" filepath="$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/Cordova-Sales-App.CordovaLib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Cordova-Sales-App.unitTest.iml" />
     </modules>
   </component>
 </project>

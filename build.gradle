@@ -200,7 +200,7 @@ android {
     defaultConfig {
         versionCode cdvVersionCode ?: new BigInteger("" + privateHelpers.extractIntFromManifest("versionCode"))
         applicationId privateHelpers.extractStringFromManifest("package")
-        minSdkVersion 16
+        minSdkVersion 19
 
         if (cdvMinSdkVersion != null) {
             minSdkVersion cdvMinSdkVersion
@@ -211,7 +211,7 @@ android {
       abortOnError false;
     }
 
-    compileSdkVersion cdvCompileSdkVersion
+    compileSdkPreview cdvCompileSdkVersion
     buildToolsVersion cdvBuildToolsVersion
 
     if (Boolean.valueOf(cdvBuildMultipleApks)) {

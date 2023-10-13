@@ -48,7 +48,7 @@ version = '6.2.3'
 
 android {
     useLibrary 'org.apache.http.legacy'
-    compileSdkVersion 31
+    compileSdk 33
     buildToolsVersion cdvBuildToolsVersion
     publishNonDefault true
 
