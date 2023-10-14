@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="Gradle: C (5)">
+  <library name="Gradle: D (2)">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/sap-e2etrace-2.3.5.300.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/perflib-1.2.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="Gradle: C (1)">
+  <library name="Gradle: D (6)">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/core-1.52.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/simple-xml-2.7.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

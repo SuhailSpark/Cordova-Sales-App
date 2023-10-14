@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="Gradle: C (4)">
+  <library name="Gradle: D">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/prov-1.52.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/AfariaSLL-7.00.6169.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
