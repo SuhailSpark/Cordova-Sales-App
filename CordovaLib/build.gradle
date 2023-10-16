@@ -76,7 +76,9 @@ android {
         exclude 'META-INF/NOTICE'
     }
     defaultConfig {
-        minSdkVersion 25
+        minSdkVersion 24
+        maxSdkVersion 33
+        targetSdkVersion 33
     }
 }
 

@@ -190,7 +190,7 @@ function updateProjectAccordingTo(platformConfig, locations) {
         .setPackageId(pkg)
         .setMinSdkVersion(platformConfig.getPreference('android-minSdkVersion', 'android'))
         .setMaxSdkVersion(platformConfig.getPreference('android-maxSdkVersion', 'android'))
-        .setTargetSdkVersion(platformConfig.getPreference('android-targetSdkVersion', 'android'))
+        .setTargetSdkVersion(33)
         .write();
 
     var javaPattern = path.join(locations.root, 'src', orig_pkg.replace(/\./g, '/'), '*.java');

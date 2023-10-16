@@ -23,7 +23,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="25"
-        android:targetSdkVersion="25" />
+        android:maxSdkVersion="33"
+        android:minSdkVersion="24"
+        android:targetSdkVersion="33" />
 
 </manifest>

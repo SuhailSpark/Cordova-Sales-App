@@ -19,6 +19,12 @@ INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
 INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
 INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
 INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
+INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
+INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
+	android:maxSdkVersion
+		INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
+		ADDED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
+		INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml
 		ADDED from D:\Daya Cordova\CordovaLib\AndroidManifest.xml

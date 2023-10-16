@@ -145,6 +145,7 @@ if (ext.cdvReleaseSigningPropertiesFile == null && file('release-signing.propert
 ext.cdvBuildMultipleApks = cdvBuildMultipleApks == null ? false : cdvBuildMultipleApks.toBoolean();
 ext.cdvMinSdkVersion = cdvMinSdkVersion == null ? null : Integer.parseInt('' + cdvMinSdkVersion)
 ext.cdvVersionCode = cdvVersionCode == null ? null : Integer.parseInt('' + cdvVersionCode)
+ext.cdvTargetSdkVersion = cdvTargetSdkVersion == null ? null : Integer.parseInt(''+ cdvTargetSdkVersion)
 
 def computeBuildTargetName(debugBuild) {
     def ret = 'assemble'
@@ -205,6 +206,12 @@ android {
         if (cdvMinSdkVersion != null) {
             minSdkVersion cdvMinSdkVersion
         }
+        if (cdvTargetSdkVersion != null){
+            targetSdkVersion cdvTargetSdkVersion
+        }
+//        if (cdvMaxSdkVersion != null) {
+//            maxSdkVersion cdvMaxSdkVersion
+//        }
     }
 
     lintOptions {
